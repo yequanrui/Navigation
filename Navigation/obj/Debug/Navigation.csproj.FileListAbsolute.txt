@@ -1,0 +1,11 @@
+E:\Projects\GitHub\Winform\Navigation\Navigation\bin\Debug\Navigation.exe.config
+E:\Projects\GitHub\Winform\Navigation\Navigation\bin\Debug\Navigation.exe
+E:\Projects\GitHub\Winform\Navigation\Navigation\bin\Debug\Navigation.pdb
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.about.resources
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.help.resources
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.MainForm.resources
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.welcome.resources
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.exe
+E:\Projects\GitHub\Winform\Navigation\Navigation\obj\Debug\Navigation.pdb
