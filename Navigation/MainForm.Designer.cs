@@ -1139,7 +1139,7 @@
             this.退出toolStripButton.Image = global::Navigation.Properties.Resources.quit;
             this.退出toolStripButton.ImageTransparentColor = System.Drawing.Color.Transparent;
             this.退出toolStripButton.Name = "退出toolStripButton";
-            this.退出toolStripButton.Size = new System.Drawing.Size(55, 23);
+            this.退出toolStripButton.Size = new System.Drawing.Size(52, 23);
             this.退出toolStripButton.Text = "退出";
             this.退出toolStripButton.Click += new System.EventHandler(this.退出toolStripButton_Click);
             // 
@@ -1148,7 +1148,7 @@
             this.帮助toolStripButton.Image = global::Navigation.Properties.Resources.help;
             this.帮助toolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.帮助toolStripButton.Name = "帮助toolStripButton";
-            this.帮助toolStripButton.Size = new System.Drawing.Size(55, 23);
+            this.帮助toolStripButton.Size = new System.Drawing.Size(52, 23);
             this.帮助toolStripButton.Text = "帮助";
             this.帮助toolStripButton.Click += new System.EventHandler(this.帮助toolStripButton_Click);
             // 
@@ -1157,7 +1157,7 @@
             this.关于toolStripButton.Image = global::Navigation.Properties.Resources.about;
             this.关于toolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.关于toolStripButton.Name = "关于toolStripButton";
-            this.关于toolStripButton.Size = new System.Drawing.Size(55, 23);
+            this.关于toolStripButton.Size = new System.Drawing.Size(52, 23);
             this.关于toolStripButton.Text = "关于";
             this.关于toolStripButton.Click += new System.EventHandler(this.关于toolStripButton_Click);
             // 
@@ -1166,7 +1166,7 @@
             this.访问toolStripLabel.Image = global::Navigation.Properties.Resources.校徽1;
             this.访问toolStripLabel.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.访问toolStripLabel.Name = "访问toolStripLabel";
-            this.访问toolStripLabel.Size = new System.Drawing.Size(133, 23);
+            this.访问toolStripLabel.Size = new System.Drawing.Size(124, 23);
             this.访问toolStripLabel.Text = "访问华师增院官网";
             this.访问toolStripLabel.Click += new System.EventHandler(this.访问toolStripLabel_Click);
             // 
