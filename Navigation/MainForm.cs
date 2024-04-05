@@ -293,13 +293,13 @@ namespace Navigation
 
         private void 帮助toolStripButton_Click(object sender, EventArgs e)
         {
-            help he = new help();
+            Help he = new Help();
             he.Show();
         }
 
         private void 关于toolStripButton_Click(object sender, EventArgs e)
         {
-            about ab = new about();
+            About ab = new About();
             ab.Show();
         }
 

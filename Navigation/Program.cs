@@ -13,7 +13,7 @@ namespace Navigation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            welcome we = new welcome();
+            Welcome we = new Welcome();
             we.ShowDialog();
             Application.Run(new MainForm());
         }
